@@ -8,5 +8,5 @@
 ## 6. <a href="https://github.com/wetresfall/freeCodeCamp/tree/main/JavaScript_Algorithms_and_Data_Structures/basic-algorithm-scripting">Basic Algorithm Scripting</a>
 ## 7. <a href="https://github.com/wetresfall/freeCodeCamp/tree/main/JavaScript_Algorithms_and_Data_Structures/object-oriented-programming">Object Oriented Programming</a>
 ## 8. <a href="https://github.com/wetresfall/freeCodeCamp/tree/main/JavaScript_Algorithms_and_Data_Structures/functional-programming">Functional Programming</a>
-## 9. <a href="">Intermediate Algorithm Scripting</a> !
+## 9. <a href="https://github.com/wetresfall/freeCodeCamp/tree/main/JavaScript_Algorithms_and_Data_Structures/intermediate-algorithm-scripting">Intermediate Algorithm Scripting</a>
 ## 10. <a href="">JavaScript Algorithms and Data Structures Projects</a> !
